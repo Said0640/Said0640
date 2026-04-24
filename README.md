@@ -1,4 +1,10 @@
-## Hi there 👋
+👋 Greetings! 👋
+
+I am currently a Freshman Computer Science student at Sierra College. I got into CS due to it being an adatable field, meaning my exprience with computer science could be whatever I want it to be. I can create Projects that actually intrest me or challange me. I could also find a job specifically that fits my intrests due to CS field being so vast. Computer Science is awesome.🤩
+
+I am currently focused on strengthening my knowledge of programming languages.💻
+
+Fun fact about me is that I love playing tennis in my free time.🎾
 
 <!--
 **Said0640/Said0640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
